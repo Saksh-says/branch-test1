@@ -1,2 +1,2 @@
 print("hello")
-print('d-2')
+print('merged')
